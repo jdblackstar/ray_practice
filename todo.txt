@@ -1,22 +1,22 @@
-1. Multiple Models: 
-Instead of just one sentiment analysis model, you could support multiple models. 
-Users could select which model they want to use when they submit a task.
+~~1. Multiple Models:~~
+~~Instead of just one sentiment analysis model, you could support multiple models.~~
+~~Users could select which model they want to use when they submit a task.~~
 
-2. Model Versioning:
-You could add support for different versions of each model. 
-This would allow you to update models without disrupting the service.
+~~2. Model Versioning:~~
+~~You could add support for different versions of each model.~~
+~~This would allow you to update models without disrupting the service.~~
 
-3. Asynchronous Processing:
-Instead of processing tasks immediately when they're submitted, 
-you could queue them and process them asynchronously. This would allow your service to handle a larger number of tasks.
+~~3. Asynchronous Processing:~~
+~~Instead of processing tasks immediately when they're submitted,~~
+~~you could queue them and process them asynchronously. This would allow your service to handle a larger number of tasks.~~
 
-4. Task Prioritization:
-You could allow users to specify a priority level for their tasks.
-Higher priority tasks would be processed before lower priority tasks.
+~~4. Task Prioritization:~~
+~~You could allow users to specify a priority level for their tasks.~~
+~~Higher priority tasks would be processed before lower priority tasks.~~
 
-5. User Authentication:
-You could add user authentication to your service. 
-This would allow you to track who submitted each task and potentially offer different service levels to different users.
+~~5. User Authentication:~~
+~~You could add user authentication to your service.~~ 
+~~This would allow you to track who submitted each task and potentially offer different service levels to different users.~~
 
 6. Rate Limiting: To prevent abuse, you could limit how many tasks each user can submit in a certain time period.
 
